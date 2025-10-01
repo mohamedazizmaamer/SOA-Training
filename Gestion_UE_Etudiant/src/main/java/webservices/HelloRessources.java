@@ -21,7 +21,7 @@ public class HelloRessources {
         // Build an HTTP 200 (OK) response with the message "Hello World!"
         return Response
                 .status(200)                  // HTTP status code 200 = success
-                .entity("Hello World!")       // The body of the response
+                .entity("Hello WWWW!")       // The body of the response
                 .build();                     // Builds the final Response object
     }
 
